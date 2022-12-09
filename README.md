@@ -1,4 +1,4 @@
-# Tristram_Portfolio
+### Tristram_Portfolio
 *	Portfolio of data science/ analytics mini projects
 *	hcbsdhfbdhbvh diuhvdiudfuv iuvhdfuvdfuhv ofudhvdfouvdoufv 
 *	iufhbdfuhudfhg oufhdfuufd jkljbfdk ifjiodfidfg figjdfiidfjg 
